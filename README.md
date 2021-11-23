@@ -1,2 +1,2 @@
-# hangman.py
+# Hangman.py
 Hangman game programmed in pythoon
