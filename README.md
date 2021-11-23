@@ -1,2 +1,2 @@
 # Hangman.py
-Hangman game programmed in pythoon
+Hangman game programmed in python
